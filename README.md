@@ -6,7 +6,7 @@ I hope you will forgive the clutter of under-construction GitHub repos and proje
 
 Among the projects I am involved with, the most relevent right now are:
 
-* [figurl]([https://github.com/flatironinstitute/figurl/blob/main/doc/intro.md)
+* [figurl](https://github.com/flatironinstitute/figurl/blob/main/doc/intro.md)
 * [kachery-cloud](https://github.com/flatironinstitute/kachery-cloud/blob/main/README.md)
 * [spikeforest](https://github.com/flatironinstitute/spikeforest/blob/main/README.md)
 * [SortingView](https://github.com/magland/sortingview/blob/main/README.md)
@@ -18,15 +18,15 @@ Jeff Soules, also at the Center for Computational Mathematics, is my close colla
 
 I am a co-organizer, along with Liam Paninski, of an Algorithms/modularization Spike Sorting Working Group that meets monthly to collaboratively improve electrophysiological spike sorting methods and to integrate various software projects. Much of this effort centers around the [SpikeInterface](https://github.com/SpikeInterface/spikeinterface/blob/master/README.md) Python package.
 
-I am the principal developer of [MountainSort](https://www.sciencedirect.com/science/article/pii/S0896627317307456), an automated clustering approach and software package for electrophysiological spike sorting. It addresses the reproducibility problem in this field by limiting the number of adjustable sorting parameters with the goal of achieving a fully-automated spike sorting pipeline.
+I am the principal developer of [MountainSort](https://www.sciencedirect.com/science/article/pii/S0896627317307456), an automated clustering approach and software package for electrophysiological spike sorting. It addresses the reproducibility problem in this field by limiting the number of adjustable sorting parameters with the goal of achieving a fully-automated spike sorting pipeline. If you are wondering where to go to find the latest incarnation of this algorithm, [go here](https://github.com/magland/mountainsort4).
 
-[SortingView](https://github.com/magland/sortingview/blob/main/README.md) is a web-based tool for visualizing, curating, and sharing the results of electrophysiological spike sorting.
+I am the co-developer of [SortingView](https://github.com/magland/sortingview/blob/main/README.md), a web-based tool for visualizing, curating, and sharing the results of electrophysiological spike sorting.
 
 ## Web-based, shareable, interactive visualizations in the cloud
 
-See [figurl]([https://github.com/flatironinstitute/figurl/blob/main/doc/intro.md)
+See [figurl](https://github.com/flatironinstitute/figurl/blob/main/doc/intro.md).
 
 ## Prior projects
 
 Before joining the Flatiron Institute, I was an Associate Research Professor in the Department of Radiology at the University of Pennsylvania School of Medince. There I developed [SequenceTree](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.25640), an intuitive graphical user interface for developing and testing pulse
-sequences for MRI research, with the capability of exporting novel research sequences to run on clinical scanners. The software is no longer maintained but is still being used in some research labs.
+sequences for MRI research, with the capability of exporting novel research sequences to run on clinical scanners.
