@@ -4,9 +4,9 @@ Hello! I am a Data Scientist in the [Center for Computational Mathematics](https
 
 Here are some of the projects I am currently working on:
 
-* [figurl](https://github.com/flatironinstitute/figurl/blob/main/doc/intro.md)
-* [kachery-cloud](https://github.com/flatironinstitute/kachery-cloud/blob/main/README.md)
-* [spikeforest](https://github.com/flatironinstitute/spikeforest/blob/main/README.md)
+* [Figurl](https://github.com/flatironinstitute/figurl/blob/main/doc/intro.md)
+* [Kachery](https://github.com/flatironinstitute/kachery-cloud/blob/main/README.md)
+* [SpikeForest](https://github.com/flatironinstitute/spikeforest/blob/main/README.md)
 * [SortingView](https://github.com/magland/sortingview/blob/main/README.md)
 * [SpikeInterface](https://github.com/SpikeInterface/spikeinterface/blob/master/README.md)
 
