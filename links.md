@@ -23,6 +23,7 @@ Kachery-cloud
 * [kachery-cloud](https://github.com/flatironinstitute/kachery-cloud)
 * [kachery-gateway](https://github.com/scratchrealm/kachery-gateway)
   - [kachery-gateway website](https://kachery-gateway.figurl.org/)
+  - [kachery-gateway actions](https://github.com/scratchrealm/kachery-gateway/actions)
 * [kachery-cloud-gui](https://github.com/scratchrealm/kachery-cloud-gui) - trying to deprecate
 
 MountainSort
