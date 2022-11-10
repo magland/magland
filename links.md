@@ -33,6 +33,7 @@ MountainSort
 
 SortingView
 * [sortingview](https://github.com/magland/sortingview)
+* [sortingview-dev examples](https://github.com/scratchrealm/sortingview-dev/tree/main/examples) shows usage of 1d 2d decoding
 
 Solopup
 * [solopup](https://github.com/scratchrealm/solopup-example-project)
