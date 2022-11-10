@@ -34,6 +34,9 @@ MountainSort
 SortingView
 * [sortingview](https://github.com/magland/sortingview)
 
+Solopup
+* [solopup](https://github.com/scratchrealm/solopup-example-project)
+
 SpikeInterface
 * [spikeinterface](https://github.com/spikeinterface/spikeinterface)
 
