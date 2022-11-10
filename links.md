@@ -37,3 +37,6 @@ SpikeForest
 * [spikeforest](https://github.com/flatironinstitute/spikeforest)
 * [spikeforest2](https://github.com/flatironinstitute/spikeforest2) - obsolete
 * [spikeforest eLife paper](https://elifesciences.org/articles/55167)
+
+Jot
+* [jot](https://github.com/magland/jot) - private repo
