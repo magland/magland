@@ -1,10 +1,8 @@
 ## Jeremy Magland
 
-Hello and welcome! I am a Data Scientist in the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron).
+Hello! I am a Data Scientist in the [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron).
 
-I hope you will forgive the clutter of under-construction GitHub repos and projects. You might relate... you make something, people start using it, and then you can't delete it without consequences. I use GitHub as a scratchspace for new ideas. When I am more serious about a project, I move it to the [flatironinstitute](https://github.com/flatironinstitute) GitHub organization. But even then, projects become obsolete over time. Other projects in preliminary phases are in [scratchrealm](https://github.com/scratchrealm). I'll try to keep this page up to date, so if you find it becoming stale, please let me know!
-
-Among the projects I am involved with, the most relevent right now are:
+Here are some of the projects I am currently working on:
 
 * [figurl](https://github.com/flatironinstitute/figurl/blob/main/doc/intro.md)
 * [kachery-cloud](https://github.com/flatironinstitute/kachery-cloud/blob/main/README.md)
@@ -30,3 +28,7 @@ See [figurl](https://github.com/flatironinstitute/figurl/blob/main/doc/intro.md)
 
 Before joining the Flatiron Institute, I was an Associate Research Professor in the Department of Radiology at the University of Pennsylvania School of Medince. There I developed [SequenceTree](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.25640), an intuitive graphical user interface for developing and testing pulse
 sequences for MRI research, with the capability of exporting novel research sequences to run on clinical scanners.
+
+## Code clutter
+
+I hope you will forgive the clutter of under-construction GitHub repos and projects. I use GitHub as a scratchspace for new ideas. When I am more serious about a project, I move it to the [flatironinstitute](https://github.com/flatironinstitute) GitHub organization. But even then, projects become obsolete over time. Other projects in preliminary phases are in [scratchrealm](https://github.com/scratchrealm). I'll try to keep this page up to date, so if you find it becoming stale, please let me know!
