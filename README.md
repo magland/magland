@@ -10,7 +10,9 @@ Here are some of the projects I am currently working on:
 * [SortingView](https://github.com/magland/sortingview/blob/main/README.md)
 * [SpikeInterface](https://github.com/SpikeInterface/spikeinterface/blob/master/README.md)
 
-Jeff Soules, also at the Center for Computational Mathematics, is my close collaborator on most of these projects. Other collaborators include the SpikeInterface team (especially Alessio Buccino), the [Loren Frank lab](https://franklab.ucsf.edu/), and Alex Williams' [NeuroStatsLab](http://neurostatslab.org/).
+[Other links](./links.md)
+
+Jeff Soules, also at the Center for Computational Mathematics, is a close collaborator on most of these projects. Other collaborators include the SpikeInterface team (especially Alessio Buccino), the [Loren Frank lab](https://franklab.ucsf.edu/), and Alex Williams' [NeuroStatsLab](http://neurostatslab.org/).
 
 ## Spike Sorting
 
