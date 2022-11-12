@@ -10,6 +10,10 @@ Figurl
 * [figurl-interface](https://github.com/magland/figurl-interface)
 * [spikesortingview](https://github.com/magland/spikesortingview)
 
+FINUFFT
+* [finufft](https://github.com/flatironinstitute/finufft)
+* [finufft-benchmark](https://github.com/scratchrealm/finufft-benchmark)
+
 FitGit
 * [fitgit](https://github.com/scratchrealm/fitgit)
 
