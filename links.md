@@ -1,3 +1,6 @@
+Community sorting curations
+* [community-sorting-curations](https://github.com/scratchrealm/community-sorting-curations)
+
 Figurl
 * [figurl](https://github.com/flatironinstitute/figurl)
 * [figurl2-gui](https://github.com/scratchrealm/figurl2-gui)
