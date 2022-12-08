@@ -20,6 +20,10 @@ FitGit
 Isa
 * [isa](https://github.com/scratchrealm/isa)
 
+Isosplit
+* [isosplit-manuscript](https://github.com/magland/isosplit-manuscript)
+* [isosplit5_python](https://github.com/magland/isosplit5_python)
+
 JinjaRoot
 * [jinjaroot](https://github.com/magland/jinjaroot)
 
@@ -29,9 +33,9 @@ Jot
 Kachery-cloud
 * [kachery-cloud](https://github.com/flatironinstitute/kachery-cloud)
 * [kachery-gateway](https://github.com/scratchrealm/kachery-gateway)
-  - [kachery-gateway website](https://kachery-gateway.figurl.org/)
-  - [kachery-gateway actions](https://github.com/scratchrealm/kachery-gateway/actions)
-* [kachery-cloud-gui](https://github.com/scratchrealm/kachery-cloud-gui) - trying to deprecate
+* [kachery-gateway website](https://kachery-gateway.figurl.org/)
+* [kachery-resource](https://github.com/scratchrealm/kachery-resource)
+* [kachery-resource-proxy](https://github.com/scratchrealm/kachery-resource-proxy)
 
 MountainSort
 * [mountainsort4](https://github.com/magland/mountainsort4)
