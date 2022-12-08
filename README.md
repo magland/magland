@@ -26,4 +26,4 @@ I apologize for the disarray of some of my unfinished GitHub repositories and pr
 
 ## AI-assisted docs
 
-I have begun to employ AI to help me with composing documentation. It is only used to sharpen the precision of my writing, not to fabricate new (potentially untrustworthy) material.
+I have begun to employ AI to help me with composing documentation. It is only used to improve the clarity of my writing, never to fabricate new (potentially untrustworthy) material.
