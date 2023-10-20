@@ -15,7 +15,7 @@ Some of the projects I am currently working on:
 Recent Presentations
 
 * [Web-based visualization and analysis of neurophysiology data](https://magland.github.io/magland-odin-symposium-2023/) - [ODIN Symposium 2023](https://odin.mit.edu/)
-* [Collaborative Scientific Visualization in the Browser with Figurl](https://magland.github.io/magland-fwam-2023/) - FWAM 2023
+* [Collaborative Scientific Visualization in the Browser with Figurl](https://magland.github.io/magland-fwam-2023/) - Flatiron-Wide Autumn Meeting (FWAM), October 2023
 
 ## Prior projects
 
