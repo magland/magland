@@ -23,7 +23,7 @@ Prior to being part of Flatiron Institute, I was an Associate Research Professor
 
 ## Collaborators
 
-[Jeff Soules](https://github.com/jsoules), also at the Center for Computational Mathematics, is a close collaborator on many of these projects. Other collaborators include the SpikeInterface team (especially [Alessio Buccino](https://github.com/alejoe91) and [Samuel Garcia](https://github.com/samuelgarcia)), the [Loren Frank lab](https://franklab.ucsf.edu/), and CatalystNeuro ([Ben Dichter](https://github.com/bendichter), [Luiz Tauffer](https://github.com/luiztauffer), [Cody Backer](https://github.com/CodyCBakerPhD), [Alex Barnett](ahbarnett), and others.
+[Jeff Soules](https://github.com/jsoules), also at the Center for Computational Mathematics, is a close collaborator on many of these projects. Other collaborators include the SpikeInterface team (especially [Alessio Buccino](https://github.com/alejoe91) and [Samuel Garcia](https://github.com/samuelgarcia)), the [Loren Frank lab](https://franklab.ucsf.edu/), CatalystNeuro ([Ben Dichter](https://github.com/bendichter), [Luiz Tauffer](https://github.com/luiztauffer), [Cody Backer](https://github.com/CodyCBakerPhD)), [Alex Barnett](ahbarnett), and others.
 
 
 ## Work in progress
