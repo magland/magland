@@ -17,6 +17,8 @@ Recent Presentations
 * [Web-based visualization and analysis of neurophysiology data](https://magland.github.io/magland-odin-symposium-2023/) - [ODIN Symposium 2023](https://odin.mit.edu/)
 * [Collaborative Scientific Visualization in the Browser with Figurl](https://magland.github.io/magland-fwam-2023/) - Flatiron-Wide Autumn Meeting (FWAM), October 2023
 
+![QR_Code_1699897948](https://github.com/magland/magland/assets/3679296/82a90f03-4e74-4585-93a6-4aa5089e4a59)
+
 ## Prior projects
 
 Prior to being part of Flatiron Institute, I was an Associate Research Professor in the Radiology Department at the University of Pennsylvania's School of Medicine. During my time there, I created [SequenceTree](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.25640), a user-friendly GUI that builds and tests cutting-edge MRI research pulse sequences, with the capability of exporting them to be used on clinical scanners.
