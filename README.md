@@ -8,7 +8,7 @@ Some of the projects I am currently working on:
 * [Kachery](https://github.com/flatironinstitute/kachery-cloud/blob/main/README.md)
 * [MountainSort 5](https://github.com/flatironinstitute/mountainsort5)
 * [Neurosift](https://github.com/flatironinstitute/neurosift)
-* [Protocaas](https://github.com/scratchrealm/protocaas)
+* [Dendro](https://github.com/flatironinstitute/dendro)
 * [SortingView](https://github.com/magland/sortingview/blob/main/README.md)
 * [SpikeInterface](https://github.com/SpikeInterface/spikeinterface/blob/master/README.md)
 
