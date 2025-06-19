@@ -4,7 +4,8 @@ Hello! I am a Data Scientist in the [Center for Computational Mathematics](https
 
 Some of the projects I am currently working on:
 
-* [Neurosift](https://github.com/flatironinstitute/neurosift)
+* [Neurosift](https://neurosift.app/)
+* [nbfiddle](https://nbfiddle.app/)
 * [LINDI](https://github.com/neurodatawithoutborders/lindi)
 * [Figurl](https://github.com/flatironinstitute/figurl/blob/main/doc/intro.md)
 * [Kachery](https://github.com/flatironinstitute/kachery-cloud/blob/main/README.md)
