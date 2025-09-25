@@ -41,9 +41,17 @@ An AI-powered system that helps researchers explore and analyze neurophysiology 
 
 With Ben Dichter, Ryan Ly, and Oliver Ruebel
 
-### MountainSort
+### Isosplit 6
 
-Spike sorting software. The latest version of MountainSort is [Mountainsort 5](https://github.com/flatironinstitute/mountainsort5).
+Isosplit is a non-parametric clustering method that does not require adjustable parameters nor parametric assumptions about the underlying cluster distributions. The only assumption is that clusters are unimodal and separated from one another by hyperplanes of relatively low density. The technique uses a variant of Hartigan's dip statistic and isotonic regression in its kernel operation.
+
+- Source: [Isosplit 6 on GitHub](https://github.com/magland/isosplit6)
+
+### MountainSort 5
+
+Spike sorting software that uses isosplit clustering.
+
+- Source: [Mountainsort 5 on GitHub](https://github.com/flatironinstitute/mountainsort5)
 
 ### LINDI
 
@@ -52,6 +60,52 @@ LINDI is a cloud-friendly file format and Python library designed for managing s
 - Source: [LINDI on GitHub](https://github.com/neurodatawithoutborders/lindi)
 
 With Neurodata Without Borders (NWB) team
+
+## simple_ans
+
+A Python package that provides efficient lossless compression of integer datasets through Asymmetric Numeral Systems (ANS). While there are many ANS implementations that are parts of other packages, this one strives to be as simple as possible, with the C++ implementation being just a small amount of code in a single file. The Python interface is also simple and easy to use. At the same time it attempts to be as efficient as possible both in terms of compression ratio and encoding/decoding speed.
+
+- Source: [simple_ans on GitHub](https://github.com/flatironinstitute/simple_ans)
+
+## NWB Assistant
+
+An experimental AI chat assistant for the Neurodata Without Borders ecosystem. This tool is designed to help users navigate NWB documentation and find relevant information quickly through an intuitive chat interface.
+
+- Live: [NWB Assistant](https://magland.github.io/nwb-assistant/chat)
+- Source: [NWB Assistant on GitHub](https://github.com/magland/nwb-assistant)
+
+## Stan Assistant
+
+An experimental AI chat assistant for the Stan software, with access to the Stan User's Guide.
+
+- Live: [Stan Assistant](https://magland.github.io/stan-assistant/chat)
+- Source: [Stan Assistant on GitHub](https://github.com/magland/stan-assistant)
+
+## Spurious Discovery Tests
+
+Can large language models be trusted to test hypotheses in data science? This project contains a collection of synthetic experiments designed to expose the kinds of mistakes that artificial intelligence can often make when interpreting complex datasets. Each experiment presents a plausible scientific scenario with a dataset containing no underlying signal, but where data analysis pitfalls are possible. Each LLM is evaluated on its ability to identify the absence of a signal and to thus avoid false discoveries.
+
+- Source: [Spurious Discovery Tests on GitHub](https://github.com/magland/spurious-discovery-tests)
+
+## minicline
+
+Command-line and Python interface for performing software engineering tasks using large language models. It is based on Cline, but is simpler, uses fewer input tokens, has fewer capabilities, is more secure by default, and does not depend on VSCode. This package was created during the 2025 Pre-COSYNE Brainhack in Montreal.
+
+- Source: [minicline on GitHub](https://github.com/magland/minicline)
+
+## Neurosift chat
+
+Experimental AI chat assistant for exploring the DANDI Archive and OpenNeuro repository.
+
+- Live: [Neurosift chat](https://chat.neurosift.app/)
+
+## MCMC Monitor
+
+MCMC Monitor enables tracking and visualization of MCMC processes executed with Stan in local or remote web browsers. When you run a sampler, you can configure Stan to generate output to a directory on your computer. MCMC Monitor reads this output and displays it in the web app, with real-time updates. As you track the progress of the run, MCMC provides diagnostic plots and statistics.
+
+- Source: [MCMC Monitor on GitHub](https://github.com/flatironinstitute/mcmc-monitor)
+
+With Jeff Soules
 
 ## nbfiddle
 
@@ -66,9 +120,23 @@ I was part of the original team that created [SpikeInterface](https://spikeinter
 
 - Source: [SpikeInterface on GitHub](https://github.com/SpikeInterface/spikeinterface)
 
+## Benchcompress
+
+A benchmarking framework for evaluating compression algorithms on scientific data arrays.
+
+- Live: [Latest benchmark results](https://magland.github.io/benchcompress/)
+- Source: [Benchcompress on GitHub](https://github.com/magland/benchcompress)
+
+## Remfile
+
+Provides a file-like object for reading a remote file over HTTP, optimized for use with h5py.
+
+- Source: [Remfile on GitHub](https://github.com/magland/remfile)
+
 ## Older projects
 
 * [Figurl](https://github.com/flatironinstitute/figurl/blob/main/doc/intro.md) - replaced by figpack
 * [Kachery](https://github.com/flatironinstitute/kachery-cloud/blob/main/README.md) - replaced by figpack
 * [SortingView](https://github.com/magland/sortingview/blob/main/README.md) - replaced by figpack
+* [Mountainsort 4](https://github.com/magland/mountainsort4) - replaced by Mountainsort 5
 * [SequenceTree](https://github.com/magland/sequencetree4) - visual MRI pulse sequence programming
