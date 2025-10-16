@@ -4,6 +4,9 @@ Hello! I am a Data Scientist in the [Center for Computational Mathematics](https
 
 I develop computational tools and open-source software for scientific research, with a focus on data visualization, cloud-based platforms, and making complex datasets more accessible to researchers. My work spans various domains and emphasizes creating portable, reproducible solutions for the scientific community.
 
+Recent presentations:
+* [AI Agents for Data Science: How To and Should We?](https://magland.github.io/ai-agents-for-data-science-how-to-and-should-we/) - Flatiron Wide Autumn Meeting, October 2025
+
 Here are a few of my recent projects
 
 ### Neurosift
