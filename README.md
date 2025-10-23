@@ -27,6 +27,8 @@ figpack is a Python package for creating interactive scientific visualizations t
 - Home page: [Figpack](https://flatironinstitute.github.io/figpack/)
 - Source: [Figpack on GitHub](https://github.com/flatironinstitute/figpack)
 
+[Figpack Slides Demo Presentation](https://magland.github.io/figpack-slides-demo-presentation/)
+
 ### Stan Playground
 
 Stan Playground is a browser-based editor and runtime environment for [Stan](https://mc-stan.org/) models. Users can edit, compile, and run models, as well as analyze the results using built-in plots and statistics or custom analysis code in Python or R, all with no local installation required.
