@@ -6,6 +6,7 @@ I develop computational tools and open-source software for scientific research, 
 
 Recent presentations:
 * [AI Agents for Data Science: How To and Should We?](https://magland.github.io/ai-agents-for-data-science-how-to-and-should-we/) - Flatiron Wide Autumn Meeting, October 2025
+* [Figpack Overview: Portable, Interactive Scientific Visualizations](https://magland.github.io/figpack-overview-presentation/)
 
 Here are a few of my recent projects
 
