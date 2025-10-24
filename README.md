@@ -7,6 +7,7 @@ I develop computational tools and open-source software for scientific research, 
 Recent presentations:
 * [AI Agents for Data Science: How To and Should We?](https://magland.github.io/ai-agents-for-data-science-how-to-and-should-we/) - Flatiron Wide Autumn Meeting, October 2025
 * [Figpack Overview: Portable, Interactive Scientific Visualizations](https://magland.github.io/figpack-overview-presentation/)
+* [Figpack Slides Demo Presentation](https://magland.github.io/figpack-slides-demo-presentation/)
 * [Browser-based collaborative neuroscience: transforming data exploration and analysis through web accessibility](https://users.flatironinstitute.org/~magland/presentations/2025/magland-ODIN-april-2025.pdf) - Open Data In Neuroscience (ODIN) Symposium, April, 2025
 
 Here are a few of my recent projects
@@ -27,8 +28,6 @@ figpack is a Python package for creating interactive scientific visualizations t
 
 - Home page: [Figpack](https://flatironinstitute.github.io/figpack/)
 - Source: [Figpack on GitHub](https://github.com/flatironinstitute/figpack)
-
-[Figpack Slides Demo Presentation](https://magland.github.io/figpack-slides-demo-presentation/)
 
 ### Stan Playground
 
