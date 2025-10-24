@@ -44,7 +44,7 @@ With Brian Ward and Jeff Soules
 
 An AI-powered system that helps researchers explore and analyze neurophysiology datasets in the [DANDI Archive](https://dandiarchive.org/). It includes a chat assistant for data exploration and an automated notebook generator that creates instructional Python notebooks tailored to specific datasets. This tool makes complex neuroscience data more accessible to researchers by reducing technical barriers to data reuse.
 
-- Manuscript: [Facilitating analysis of open neurophysiology data on the DANDI Archive using large language model tools](https://www.biorxiv.org/content/10.1101/2025.07.17.663965v2)
+- Preprint: [Facilitating analysis of open neurophysiology data on the DANDI Archive using large language model tools](https://www.biorxiv.org/content/10.1101/2025.07.17.663965v2)
 
 With Ben Dichter, Ryan Ly, and Oliver Ruebel
 
